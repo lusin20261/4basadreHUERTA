@@ -1,0 +1,5 @@
+h = input("Escribe tu color favorito: ")
+u = input("Escribe tu deporte favorito: ")
+a = input("Escribe tu comida favorita: ")
+e = input("Escribe tu nombre: ")
+print("Hola me llamó",e,"mi color favorito es",h,"ha mi deporte favorito es",u,"y mi comida favorita es",a,"gracias.")
